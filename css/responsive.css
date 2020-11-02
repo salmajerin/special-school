@@ -1,0 +1,84 @@
+/*--------------------------------------------------------------
+Responsive Style
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+1. x >= 1440px
+--------------------------------------------------------------*/
+@media screen and (min-width: 1440px) {
+	
+}
+
+/* #Tablet (Landscape)
+================================================== */
+
+@media only screen and (max-width: 1080px) {
+    
+}
+
+/* #Tablet (Portrait)
+================================================== */
+    
+@media only screen and (max-width: 959px) {
+    
+}
+
+
+/* 4. #Mobile (Landscape)
+================================================== */
+
+@media only screen and (max-width: 767px) {
+
+	
+}
+
+/*--------------------------------------------------------------
+7. x <= 479px (iPhone Portrait)
+--------------------------------------------------------------*/
+@media screen and (max-width: 479px) {
+	#header {
+	width: 360px!important;
+}
+	#header div {
+	width: 360px!important;
+}
+	#header div img {
+	height: 128px;
+	width: 250px;
+	padding: 1px 53px;
+}
+	#header div ul {
+	width: 359px;
+	padding: 0px;
+	margin: 0px;
+}
+	#header div ul li a {
+	width: 68px;
+}
+	#header div ul li {
+	padding: 0px !important;
+}
+	#content {
+		width: 360px!important;
+}
+	#content div {
+		width: 360px!important;
+		background: url(../images/bg-homepageResponsive.jpg) no-repeat top center;
+}
+	#content div div {
+	margin: 150px 0 0;
+	padding-right:0px!important;
+	width: 360px!important;
+}
+	#content div div .jerin .jerinA {
+	height: 95px;
+	width: 176px !important;
+}
+	#content div div .jerin .jerinB {
+	height: 82px;
+	width: 200px !important;
+	font-size: 17px;
+	padding-left:7px;
+}
+.pSpace{margin-top:-18px;}
+}

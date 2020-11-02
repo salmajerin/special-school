@@ -1,0 +1,9 @@
+Username: lavender
+Password: 240sj]TCHKa1.p
+
+
+
+
+Control Panel URL: http://213.136.72.26:2082/
+updated panel url:https://server12.ebnhost.com:2083/cpsess4611199983/frontend/paper_lantern/index.html?login=1&post_login=79309768841802
+Once your domain has propagated, you may also use http://www.lavenderschool.com:2082/
